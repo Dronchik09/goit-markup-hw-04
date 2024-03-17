@@ -279,6 +279,10 @@ text-align: center;
     align-items: center;
     border-radius: 50%;
 }
+.team-background:hover,
+.team-background:focus{
+    background-color: #404bbf; 
+}
 .section-pad-port{
     padding-top: 120px;
      padding-bottom: 120px;
